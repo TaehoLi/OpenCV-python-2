@@ -1,2 +1,3 @@
-# OpenCV-python-2
-book
+# OpenCV 3 Computer Vision with Python Cookbook
+
+_book_
